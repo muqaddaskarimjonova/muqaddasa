@@ -3,11 +3,8 @@
 #include <conio.h>
 using namespace std;
 char *fortunes[] ={
-"sizga yaqinda pul keladi.\n",
-"sizga yaqinda sevgi keladi.\n",
-"uzoq va baxtli baxtli hayot kechirasiz.\n",
-"hozir pul tikkaniz foyde bolib qaytib keladi.\n",
-"dostingiz sizni izlaydi.\n",
+"sizga yaqinda ...... keladi.\n",
+"sizga yaqinda bilm keladi.\n",
 };
 int main()
 {
