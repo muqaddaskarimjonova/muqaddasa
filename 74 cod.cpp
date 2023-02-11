@@ -6,7 +6,7 @@ int main()
 
 {
     int i;
-    for(i=0; i<1000000; i++) cout << i << '\n';
+    for(i=0; i<10; i++) cout << i << '\n';
     clrscr(10); // ochishaym 10 strok
 
     return 0;
